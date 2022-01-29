@@ -557,6 +557,20 @@ git rebase --abort
 
 > [git reference](https://git-scm.com/docs/gittutorial)
 
+> [try git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+
+> [pro git](https://git-scm.com/book/en/v2)
+
+> [ry`s git tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index)
+
+> [git immersion](https://gitimmersion.com/)
+
+> [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
+
+> [git happends! 6 типичных ошибок и как их исправить](
+https://habr.com/ru/company/flant/blog/419733/
+)
+
 
 
 ## Альтернативные системы контроля версий.
